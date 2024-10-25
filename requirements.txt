@@ -1,0 +1,17 @@
+streamlit
+langchain_openai
+fastapi
+sqlalchemy
+pymupdf
+pytesseract
+pillow
+transformers
+langchain
+uvicorn
+langchain-community
+langchain-core
+langchain-huggingface
+python-multipart
+sentencepiece
+langchain-chroma
+beautifulsoup4

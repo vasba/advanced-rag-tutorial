@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "debug streamlit",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\Users\\Baluta\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\streamlit.exe",  // /home/xx/tmp/venv/bin/streamlit",
+            "args": [
+                "run",
+                "project/app.py"
+            ]
+        }
+    ]
+    }
