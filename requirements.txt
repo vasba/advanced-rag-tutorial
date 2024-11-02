@@ -15,3 +15,5 @@ python-multipart
 sentencepiece
 langchain-chroma
 beautifulsoup4
+lark
+duckduckgo-search
